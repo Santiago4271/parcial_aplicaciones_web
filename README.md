@@ -2,13 +2,13 @@
 
 ## Solución Parcial Backend
 
-[Solución parcial backend]git@github.com:Santiago4271/parcial_aplicaciones_web.git
+[Solución parcial backend]
 
 ### Instrucciones para ejecutar la solución backend
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio-backend.git
+   git@github.com:Santiago4271/parcial_aplicaciones_web.git
 2. Navega al directorio del proyecto:
    cd tu-repositorio-backend
 
