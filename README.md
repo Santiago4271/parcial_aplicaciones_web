@@ -14,15 +14,20 @@
 
 3. Crea y activa un entorno virtual:
    python -m venv venv
+   
    source venv/bin/activate  # En Windows usa `source   
    venv\Scripts\activate`
 
-4. Instala las dependencias
+5. Instala las dependencias
    fastapi
+   
    uvicorn
+   
    sqlalchemy
+   
    pydantic
+   
    databases
 
-5. Ejecuta la aplicación:
+7. Ejecuta la aplicación:
    uvicorn main:app --reload o uvicorn backend.main:app --reload
