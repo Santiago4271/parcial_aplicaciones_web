@@ -31,3 +31,7 @@
 
 7. Ejecuta la aplicación:
    uvicorn main:app --reload o uvicorn backend.main:app --reload
+
+8. recomendaciones:
+
+   DESCARGA LAS DEPENDENCIAS DENTRO Y FUERA DEL ENTORNO [3].
